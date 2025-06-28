@@ -1,0 +1,82 @@
+[
+  {
+    "name": "1-introducao-e-apostila",
+    "files": [
+      {"name": "APOSTILA 5.0.pdf", "path": "/materiais/1-introducao-e-apostila/APOSTILA 5.0.pdf"},
+      {"name": "introducao.mp4", "path": "https://drive.google.com/file/d/1OODXW7vYeg6siLBTGv1-mmIF48_qNPZb/preview"}
+    ]
+  },
+  {
+    "name": "2- SNF E ECONOMIA",
+    "files": [
+      {"name": "Sistema Financeiro Nacional (SFN) e Economia.mp4", "path": "https://drive.google.com/file/d/1BFWadycVKKQLxUDOUc3IaMyk4XA00BU6/preview"}
+    ]
+  },
+  {
+    "name": "3- RENDA FIXA",
+    "files": [
+      {"name": "Renda Fixa.mp4", "path": "https://drive.google.com/file/d/1_jZtruXOCu-5BPOfThrGS0TzoGGHq1J3/preview"}
+    ]
+  },
+  {
+    "name": "4- RENDA VARIAVEL",
+    "files": [
+      {"name": "Renda Variável.mp4", "path": "https://drive.google.com/file/d/1pxRsCMBCLP5yKro_a2qwL-b_glK0Ypsg/preview"}
+    ]
+  },
+  {
+    "name": "5- RISCO",
+    "files": [
+      {"name": "RISCO.mp4", "path": "https://drive.google.com/file/d/1i4wLl9N2mpLo6wyMQIEj2H3GNzvNlpn9/preview"}
+    ]
+  },
+   {
+    "name": "6- PLD, LAVAGEM DE DINHEIRO",
+    "files": [
+      {"name": "5 Prevenção à Lavagem de Dinheiro (PLD), Compliance, Ética e API.mp4", "path": "https://drive.google.com/file/d/1bV8pueu8rDq12pIr69ok7io_TpZ1Hp3D/preview"}
+    ]
+  },
+  {
+    "name": "7- FUNDOS",
+    "files": [
+      {"name": "7 Fundos.MP4", "path": "https://drive.google.com/file/d/1Zq1cYxO45scdUojLTxUAOpKo6sBjPmKa/preview"}
+    ]
+  },
+  {
+    "name": "8-PREVIDENCIA",
+    "files": [
+      {"name": "8 Previdência.MP4", "path": "https://drive.google.com/file/d/1QQcnW4TDR9OHHJnISoBmzhDSdrGCU6yS/preview"}
+    ]
+  },
+  {
+    "name": "9- HEURISTICA",
+    "files": [
+      {"name": "8 Heurística.mp4", "path": "https://drive.google.com/file/d/1ua6uMcl-vIpW4_OCsOeD2vR4mP8k-C8I/preview"}
+    ]
+  },
+  {
+    "name": "10- LER E APRENDER",
+    "files": [
+      {"name": "LER E APRENDER.pdf", "path": "/materiais/10- LER E APRENDER/LER E APRENDER.pdf"}
+    ]
+  },
+  {
+    "name": "11- SIMULADOS",
+    "files": [
+      {"name": "SIMULADO 1/SIMULADO I + GABARITO - CPA20.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 1/SIMULADO I + GABARITO - CPA20.pdf"},
+      {"name": "SIMULADO 1/SIMULADO I + GABARITO - CPA20(1).pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 1/SIMULADO I + GABARITO - CPA20(1).pdf"},
+      {"name": "SIMULADO 2/SIMULADO II + GABARITO - CPA20.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 2/SIMULADO II + GABARITO - CPA20.pdf"},
+      {"name": "SIMULADO 2/SIMULADO II.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 2/SIMULADO II.pdf"},
+      {"name": "SIMULADO 3/SIMULADO III + GABARITO - CPA20.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 3/SIMULADO III + GABARITO - CPA20.pdf"},
+      {"name": "SIMULADO 3/SIMULADO III.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 3/SIMULADO III.pdf"},
+      {"name": "SIMULADO 4/SIMULADO IV + GABARITO - CPA20.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 4/SIMULADO IV + GABARITO - CPA20.pdf"},
+      {"name": "SIMULADO 4/SIMULADO IV.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 4/SIMULADO IV.pdf"},
+      {"name": "SIMULADO 5/SIMULADO V + GABARITO - CPA20.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 5/SIMULADO V + GABARITO - CPA20.pdf"},
+      {"name": "SIMULADO 5/Simulado V.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 5/Simulado V.pdf"},
+      {"name": "SIMULADO 6/SIMULADO VI + GABARITO - CPA20.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 6/SIMULADO VI + GABARITO - CPA20.pdf"},
+      {"name": "SIMULADO 6/simulado VI.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 6/simulado VI.pdf"},
+      {"name": "SIMULADO 7/SIMULADO VII + GABARITO - CPA20.pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 7/SIMULADO VII + GABARITO - CPA20.pdf"},
+      {"name": "SIMULADO 7/SIMULADO VII + GABARITO - CPA20(1).pdf", "path": "/materiais/11- SIMULADOS/SIMULADO 7/SIMULADO VII + GABARITO - CPA20(1).pdf"}
+    ]
+  }
+]

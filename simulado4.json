@@ -1,0 +1,725 @@
+{
+  "examTitle": "SIMULADO IV - CPA20",
+  "questions": [
+    {
+      "id": "1",
+      "page": 1,
+      "question": "Conceder autorização de funcionamento às instituições financeiras e às instituições de pagamento componentes do Sistema de Pagamentos Brasileiro (SPB) é atribuição",
+      "options": [
+            "do Conselho Monetário Nacional (CMN).",
+            "do Ministério da Economia.",
+            "do Banco Central do Brasil (BACEN).",
+            "da Comissão de Valores Mobiliários (CVM)."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "2",
+      "page": 1,
+      "question": "É uma atividade que pode ser efetuada por uma corretora de títulos e valores mobiliários:",
+      "options": [
+            "intermediação de operações de câmbio.",
+            "crédito direto ao consumidor.",
+            "Securitização de recebíveis.",
+            "financiamento de capital de giro das empresas."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "3",
+      "page": 1,
+      "question": "Os Bancos Múltiplos, com carteira de investimento, podem\n\nI. atuar como agentes underwriters.\nII. captar recursos por meio de debêntures.\nIII. atuar no financiamento de capital de giro e fixo.\n\nEstá correto o que se afirma em",
+      "options": [
+            "I, apenas.",
+            "I e III, apenas.",
+            "I, II, III.",
+            "II, apenas."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "4",
+      "page": 1,
+      "question": "Um banco múltiplo com carteiras de investimento e de crédito, financiamento e investimento é autorizado pelo Banco Central a",
+      "options": [
+            "captar recursos via depósitos à vista e realizar operações de compra e venda, por conta própria ou de terceiros, de titulos e valores mobiliários.",
+            "captar recursos via depósitos a prazo, mas não pode receber depósitos a vista.",
+            "intermediar operações de câmbio e participar do processo de emissão, subscrição para revenda e distribuição de titulos e valores mobiliários.",
+            "intermediar operações de câmbio, mas não pode administrar fundos de investimento."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "5",
+      "page": 1,
+      "question": "Segundo a Comissão de Valores Mobiliários (CVM), são considerados investidores profissionais, dentre outros,\n\nI. as entidades abertas e fechadas de previdência complementar, independentemente do tamanho do seu patrimônio.\nII. os clubes de investimento, desde que tenham a carteira gerida por administrador de carteira de valores mobiliários autorizado pela CVM.\nIII. as pessoas físicas e jurídicas que atestem, por escrito, sua condição de investidor profissional e possuam investimentos financeiros em valor superior a R$ 1.000.000,00.\n\nEstá correto o que se afirma em",
+      "options": [
+            "I e II, apenas.",
+            "II e III, apenas.",
+            "I, apenas.",
+            "I, II e III."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "6",
+      "page": 2,
+      "question": "É uma atribuição da área de controles internos das instituições financeiras",
+      "options": [
+            "o desenvolvimento de cenários macroeconômicos que auxiliem o posicionamento da instituição no mercado.",
+            "a avaliação dos riscos de crédito de eventuais tomadores de recursos da instituição.",
+            "a exclusão de responsabilidades por parte dos profissionais que não sejam diretores estatutários dentro da instituição.",
+            "a segregação das atividades de forma que seja evitado o conflito de interesses."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "7",
+      "page": 2,
+      "question": "Segundo a Resolução n° 30 da CVM, os profissionais que fazem recomendação de produtos de investimento para clientes tem o dever, dentre outras atribuições, de verificar se\n\nI. a situação financeira do cliente é compatível com o produto, serviço ou operação apresentada.\nII. o produto, serviço ou operação é adequado aos objetivos de investimento do cliente.\nIII. o cliente possui conhecimento necessário para compreender os riscos relacionados ao produto, serviço ou operação apresentada.\n\nEstá correto o que se afirma em",
+      "options": [
+            "I e II, apenas.",
+            "I, II e III.",
+            "II e III, apenas.",
+            "I e III, apenas."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "8",
+      "page": 2,
+      "question": "Faz parte da política de segurança de informação de uma instituição financeira,",
+      "options": [
+            "a perpetuação da configuração dos desenhos dos sistemas de informações a fim de permitir comparações entre as rentabilidades obtidas nos anos anteriores.",
+            "o bloqueio ao acesso pelos diretores não estatutários aos sistemas de informações",
+            "a realização de testes periódicos de segurança para os sistemas de informações, em especial para os mantidos em meio eletrônico.",
+            "a realização de testes periódicos nos arquivos físicos, assegurando a autenticidade das informações mantidas e priorizando-as sobre aquelas em meio eletrônico."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "9",
+      "page": 2,
+      "question": "A legislação e regulamentação, que dispõem sobre os crimes de lavagem de dinheiro ou ocultação de bens, direitos e valores, define que",
+      "options": [
+            "a ocorrência de infração penal precedente não é necessária para que se caracterize um crime de lavagem de dinheiro.",
+            "as punições estabelecidas no Código Penal não se aplicam a esses crimes.",
+            "estão sujeitos às punições aplicáveis aos crimes previstos nessa legislação, todos que contribuem para qualquer uma das etapas do processo de lavagem de dinheiro.",
+            "o Banco Central é o único órgão competente para editar normativos referentes à prevenção e combate desses crimes."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "10",
+      "page": 2,
+      "question": "Com a finalidade de prevenir o envolvimento do sistema financeiro em ilícitos, o cadastro dos clientes e as informações sobre as transações realizadas",
+      "options": [
+            "devem ser conservados durante o período mínimo de cinco anos a partir do encerramento da conta ou da conclusão da transação.",
+            "devem ser conservados durante o período mínimo de dez anos a partir do encerramento da conta ou da conclusão da transação.",
+            "são facultativos caso a operação seja realizada por pessoa jurídica que exerça atividades de promoção imobiliária ou compra e venda de imóveis.",
+            "devem ser implementados quando a instituição financeira assim julgar conveniente."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "11",
+      "page": 3,
+      "question": "Segundo a Resolução n° 30 da CVM, é vedado às pessoas que fazem recomendação de produtos de investimento para clientes, recomendar produtos ou serviços quando",
+      "options": [
+            "as informações de perfil do cliente não estejam atualizadas.",
+            "o prazo de vencimento do produto não for informado.",
+            "o retorno esperado do produto, no seu vencimento, não for informado.",
+            "os dados pessoais sensíveis do cliente, segundo a Lei Geral de Proteção de Dados (LGPD), não estejam atualizados."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "12",
+      "page": 3,
+      "question": "É um exemplo da prática de insider trading quando um operador",
+      "options": [
+            "divulga informações sobre seus clientes para terceiros, buscando vantagens e ganhos pessoais.",
+            "utiliza informações divulgadas em fatos relevantes em benefício próprio.",
+            "utiliza informações privilegiadas em benefício próprio ou para beneficiar as carteiras de clientes que administra.",
+            "compra ações para sua carteira pessoal, ao identificar no sistema da bolsa significativas ordens de compra dessas ações."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "13",
+      "page": 3,
+      "question": "Segundo a Teoria de Finanças Comportamentais, a estratégia adotada pelos investidores ao tomarem o primeiro preço de compra de uma ação como referência e, a partir desse preço estimar o desempenho futuro dessa ação, é uma consequência da aplicação da heurística denominada",
+      "options": [
+            "aversão ao risco.",
+            "disponibilidade.",
+            "ancoragem.",
+            "representatividade."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "14",
+      "page": 3,
+      "question": "Sobre os crimes de lavagem de dinheiro, a lei vigente regulamenta que\n\nI. os depósitos de alto valor realizados em espécie em contas de clientes, que exerçam atividades comerciais relacionadas com a negociação de obras de arte e aeronaves, caracterizam-se como operações suspeitas.\nII. aqueles que se utilizarem de bens e valores provenientes de infração penal, em sua atividade econômica estão sujeitos a mesma pena de reclusão, de três a dez anos, e multa.\nIII. aqueles que exercem atividades de comercialização de imóveis ou joias e as administradoras de cartões de crédito estão sujeitas a essa lei.\n\nEstá correto o que se afirma em",
+      "options": [
+            "II e III, apenas.",
+            "I e II, apenas.",
+            "I e III, apenas.",
+            "I, II e III."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "15",
+      "page": 4,
+      "question": "A Circular Bacen 3.978/20 (e suas atualizações), no seu art. 18°, determina que as instituições autorizadas a funcionar pelo Banco Central do Brasil devem adotar procedimentos que permitam qualificar seus clientes por meio da coleta, verificação e validação de informações, compatíveis com o perfil de risco do cliente e com a natureza da relação de negócio. Em conformidade com as informações acima, está correto afirmar que\n\nI. a qualificação do cliente deve ser reavaliada de forma permanente, de acordo com a evolução da relação de negócio e do perfil de risco.\nII. os procedimentos de qualificação do cliente pessoa jurídica, devem incluir a análise da cadeia de participação societária até a identificação da pessoa natural caracterizada como seu beneficiário final.\n\nPode-se afirmar que I e II, respectivamente, estão",
+      "options": [
+            "incorreta e incorreta.",
+            "correta e correta.",
+            "correta e incorreta.",
+            "incorreta e correta."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "16",
+      "page": 4,
+      "question": "A identificação de temas relevantes, pelos investidores, para a análise ASG, pode se apoiar no processo de materialidade conduzido pelas empresas durante a elaboração de seu relato anual/de sustentabilidade. Nesse caso,",
+      "options": [
+            "a empresa deve divulgar todas as informações disponíveis sobre os temas materiais, identificados no relatório anual/de sustentabilidade para os seus investidores.",
+            "a definição da materialidade ASG pelos investidores envolve a avaliação do seu impacto na performance financeira da empresa.",
+            "a priorização dos temas ASG pelos investidores deve considerar as questões demandadas pelos stakeholders da companhia e reportadas no seu relatório anual/de sustentabilidade.",
+            "todo tema importante, identificado pela empresa, deve ser considerado relevante para os investidores."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "17",
+      "page": 4,
+      "question": "De acordo com o Código ANBIMA de Distribuição de Produtos de Investimento, para definição do objetivo de investimento do investidor, a instituição participante deve considerar, no mínimo, as seguintes informações:\n\nI - O valor de suas receitas regulares declaradas.\nII - O periodo em que será mantido o investimento.\nIII - As preferencias declaradas quanto a assunção de riscos.\n\nEstá correto o que se afirma em",
+      "options": [
+            "I, apenas.",
+            "I e II, apenas.",
+            "II e III, apenas.",
+            "I, II e III."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "18",
+      "page": 4,
+      "question": "Um país que tem sua balança comercial superavitária significa que",
+      "options": [
+            "o total de bens exportados são superiores ao total de bens importados.",
+            "tenha um maior volume de remessas de lucros e juros de empréstimos enviados para o exterior.",
+            "o total de bens exportados são inferiores ao total de bens importados.",
+            "tenha um maior volume de remessas de lucros e juros de empréstimos vindos do exterior."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "19",
+      "page": 5,
+      "question": "Um investidor realiza uma aplicação num fundo de investimento e obtém rendimento nominal líquido (de impostos e demais custos e taxas) de 20% no período. Nesse mesmo intervalo de tempo, o IPCA (Índice Nacional de Preços ao Consumidor Amplo) acumulado foi de 25%. Então, esse investidor, com esta aplicação\n\nI - obteve um ganho real no período.\nII - perdeu poder de compra.\n\nAs afirmações I e II são, respectivamente:",
+      "options": [
+            "falsa e falsa.",
+            "falsa e verdadeira.",
+            "verdadeira e falsa.",
+            "verdadeira e verdadeira."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "20",
+      "page": 5,
+      "question": "Um determinado título de renda fixa zero cupom tem seu valor de resgate de R$ 1.000,00 com vencimento em 12 meses. A taxa de juros do mercado para esse mesmo período é de 7,00% a.a. Nesse caso, o valor presente desse título é",
+      "options": [
+            "inferior a R$ 1.000,00.",
+            "igual a R$ 1.000,00.",
+            "impossível de ser determinado.",
+            "superior a R$ 1.000,00."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "21",
+      "page": 5,
+      "question": "O índice de Sustentabilidade Empresarial (ISE B3) da B3 avalia as empresas nas dimensões: capital humano, governança corporativa e alta gestão, modelo de negócio e inovação, capital social, meio ambiente e mudança do clima. A avaliação destas empresas para a formação da carteira do índice se dá por meio de",
+      "options": [
+            "metodologia especifica do índice, que conta com questionário qualitativo e quantitativo respondido pelas empresas e avaliado por uma instituição independente.",
+            "informações ASG reportadas no Formulário de Referência das companhias, previstas na Resolução CVM 59, da Comissão de Valores Mobiliários.",
+            "banco de dados de informações ASG, organizado por um prestador de serviços em finanças sustentáveis e validado pela B3.",
+            "informações publicadas pelas empresas em relatórios corporativos e/ou de sustentabilidade, a partir da iniciativa Relate ou Explique, promovida pela B3."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "22",
+      "page": 5,
+      "question": "A agência de rating é contratada pela companhia emissora de debentures e notas promissórias para",
+      "options": [
+            "avaliar a atuação do banco coordenador no processo da emissão.",
+            "confirmar todos os pagamentos e movimentações relativos à emissão.",
+            "elaborar uma análise independente sobre a capacidade de pagamento da companhia emissora.",
+            "assegurar aos investidores que a companhia emissora honrará seus compromissos."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "23",
+      "page": 6,
+      "question": "Um investidor pessoa física vendeu ações em Bolsa de Valores, conforme demonstrado no quadro abaixo:\n\nValores de ações vendidas (em R$)\nMês | nov/14 | dez/14 | jan/15 | fev/15\nTotal | 17.136,04 | 18.667,59 | 23.532,99 | 21.469.45\n\nDe acordo com a legislação do imposto sobre a renda vigente, os ganhos líquidos auferidos nessas alienações estão isentos do imposto nos meses de",
+      "options": [
+            "novembro e dezembro de 2014.",
+            "dezembro de 2014 e janeiro de 2015.",
+            "novembro e dezembro de 2014 e fevereiro de 2015.",
+            "janeiro e fevereiro de 2015."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "24",
+      "page": 6,
+      "question": "Os titulos de crédito, nominativos, sem garantia real, que visam a levantar recursos de curto e médio prazo, emitidos exclusivamente por sociedades anônimas não financeiras denominam-se",
+      "options": [
+            "debentures.",
+            "debentures conversíveis em ações.",
+            "notas promissórias ou comercial paper.",
+            "ações."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "25",
+      "page": 6,
+      "question": "Os contratos futuro de ações da B3,",
+      "options": [
+            "têm risco de contraparte.",
+            "são padronizados.",
+            "não exigem depósito de margem de garantia.",
+            "não possibilitam a alavancagem de resultados"
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "26",
+      "page": 6,
+      "question": "Uma oferta pública de um valor mobiliário, em que o banco coordenador assume o compromisso contratual, com a companhia emissora, de subscrever até a totalidade da emissão a um preço e condições previamente pactuados, encarregando-se, por sua conta e risco, de distribui-la no mercado é conhecida como",
+      "options": [
+            "colocação em regime de melhores esforços.",
+            "oferta com garantia firme.",
+            "oferta de lote residual.",
+            "bookbuilding."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "27",
+      "page": 6,
+      "question": "Ao ocorrer um desdobramento de ações (split) de uma companhia aberta listada na B3",
+      "options": [
+            "não altera o patrimônio dos acionistas.",
+            "não altera a quantidade de ações dos acionistas.",
+            "reduz a quantidade de ações dos acionistas.",
+            "aumenta o preço da ação no mercado."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "28",
+      "page": 7,
+      "question": "Ao recomendar um título de renda fixa Tesouro IPCA+2024 (NTN-B Principal), um especialista de investimento deverá explicar ao seu cliente que\n\nI. ao manter o título até seu vencimento, a rentabilidade obtida será formada pela variação do IPCA e, também, pela taxa de juro do momento da aquisição.\nII. variações na Taxa Selic terão influência direta na rentabilidade, uma vez que o retorno é dado pela variação do IPCA mais a Taxa Selic.\nIII. em um ambiente econômico de alta inflacionária a rentabilidade real do investidor é mantida.\n\nEstá correto o que se afirma em",
+      "options": [
+            "I, II e III.",
+            "I e III, apenas.",
+            "II, apenas.",
+            "I, apenas."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "29",
+      "page": 7,
+      "question": "O lançador de uma call (opção de compra) europeia, sobre um certo ativo objeto, em seu vencimento",
+      "options": [
+            "tem a obrigação de vender o ativo objeto, se exercido pelo titular da call.",
+            "tem a opção de comprar o ativo objeto, se for de seu interesse.",
+            "tem a opção de vender o ativo objeto, se for de seu interesse.",
+            "tem a obrigação de comprar o ativo objeto, se exercido pelo titular da call."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "30",
+      "page": 7,
+      "question": "O Sistema de Pagamentos Brasileiro - SPB destina-se a promover a transferência",
+      "options": [
+            "de reservas bancárias que representem recursos próprios das instituições financeiras que possuam conta no Sistema de Transferência de Reservas - STR, em tempo real, com a consequente redução do risco sistêmico.",
+            "de fundos interbancários, próprios ou de terceiros, que podem ser liquidados, inclusive em tempo real, com a consequente redução do risco sistêmico.",
+            "de recursos financeiros próprios de instituições que pertençam a um mesmo conglomerado financeiro por meio da Câmara Interbancária de Pagamentos - CIP, em tempo real, com a consequente redução do risco sistêmico.",
+            "exclusiva de fundos entre os correntistas de um mesmo conglomerado financeiro, em tempo real, com a consequente redução do risco sistêmico."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "31",
+      "page": 7,
+      "question": "Um investidor que adquire bônus de subscrição assume uma posição que equivale a uma",
+      "options": [
+            "venda de uma opção de venda.",
+            "compra de uma opção de venda.",
+            "compra de uma opção de compra.",
+            "venda de uma opção de compra."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "32",
+      "page": 7,
+      "question": "Uma oferta pública primária de valores mobiliários",
+      "options": [
+            "é a operação de compra ou venda de ativos, vinculada a uma outra operação de transferência de titularidade.",
+            "caracteriza-se por ser extensiva aos não-acionistas da companhia.",
+            "é distribuida apenas aos não-acionistas da companhia.",
+            "é feita apenas aos acionistas, para subscrever novas ações a um preço determinado."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "33",
+      "page": 8,
+      "question": "O preço unitário (PU) de um título de renda fixa prefixado sem pagamentos periódicos de juros é o",
+      "options": [
+            "preço de negociação do título calculado em determinada data.",
+            "valor nominal atualizado.",
+            "valor presente dos cupons e do principal.",
+            "quociente entre o total dos cupons e o total das amortizações."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "34",
+      "page": 8,
+      "question": "Os ativos de renda variável se caracterizam por terem",
+      "options": [
+            "seus preços corrigidos por índices de mercado até sua data de vencimento.",
+            "sua remuneração previamente definida, na aquisição do ativo.",
+            "seus preços pós-fixados, corrigidos por taxas flutuantes até sua data de vencimento.",
+            "sua remuneração definida apenas no resgate da aplicação inicialmente feita."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "35",
+      "page": 8,
+      "question": "Com relação às modalidades de fundos de investimento definidos pela CVM, os fundos",
+      "options": [
+            "de renda variável, por determinação legal, não podem comprar cotas de outros fundos.",
+            "abertos são aqueles em que os cotistas podem solicitar o resgate das suas cotas a qualquer tempo.",
+            "de investimento imobiliário são constituídos na forma de condomínio aberto.",
+            "exclusivos são voltados para um segmento de mercado, como empresas do segmento bancário."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "36",
+      "page": 8,
+      "question": "Calcula-se o valor da cota de um fundo de investimento",
+      "options": [
+            "multiplicando-se o valor do PL pela rentabilidade do Dido dia e dividindo-se pelo número de cotas existentes.",
+            "dividindo-se o valor do PL pelo número de cotistas.",
+            "dividindo-se o valor do PL pelo número de cotas existentes.",
+            "dividindo-se o valor do PL pelo número de cotas vendidas e multiplicando-se pelo número de cotistas."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "37",
+      "page": 8,
+      "question": "Segundo a Comissão de Valores Mobiliários (CVM), o fundo de investimento que permite ao investidor conhecer o valor da cota no momento de sua aplicação é o",
+      "options": [
+            "Multimercado.",
+            "Cambial.",
+            "Renda Fixa.",
+            "Ações."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "38",
+      "page": 8,
+      "question": "Ao explicar para seu cliente os três níveis da Classificação de Fundos ANIMA, um gerente afirmou-lhe que:\n\nI. O Nível 1 faz referência às classes definidas pela Comissão de Valores Mobiliários (CVM).\nII. O Nível 2 identifica os tipos de gestão e riscos.\nIII. O Nível 3 identifica as estratégias de investimento.\n\nEstá correto o que se afirma em",
+      "options": [
+            "I e III, apenas.",
+            "I e II, apenas.",
+            "I, apenas.",
+            "I, II e III."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "39",
+      "page": 9,
+      "question": "Em relação às diferentes modalidades dos fundos de investimento, os fundos",
+      "options": [
+            "fechados são aqueles em que os cotistas podem resgatar suas cotas a qualquer momento.",
+            "de renda fixa não podem adquirir ativos no exterior.",
+            "exclusivos são voltados para um segmento de mercado, como empresas do segmento de energia elétrica.",
+            "de ações podem comprar cotas de outros fundos."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "40",
+      "page": 9,
+      "question": "Um investidor que acredita em uma queda da taxa de juros maior que a do consenso de mercado, deve aplicar seus recursos em um fundo de investimento cuja carteira seja composta principalmente por",
+      "options": [
+            "títulos prefixados e títulos pós-fixados indexados à Taxa Selic.",
+            "títulos pós-fixados indexados ao Di e títulos prefixados.",
+            "títulos prefixados.",
+            "títulos pós-fixados indexados à Taxa Selic."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "41",
+      "page": 9,
+      "question": "Em relação à tributação dos fundos de investimento imobiliário pelo imposto de renda, é correto afirmar que",
+      "options": [
+            "o imposto apurado deve ser recolhido pelo próprio titular das cotas, em 31 de junho e 31 de dezembro de cada ano.",
+            "trata-se de uma modalidade de aplicação isenta de imposto, para pessoa jurídica, sobre os ganhos de capital e/ou rendimentos na alienação ou resgate das cotas.",
+            "há dois tipos de fatos geradores: a distribuição dos lucros auferidos pelo fundo aos cotistas e a obtenção de ganhos de capital e rendimentos na alienação ou resgate de cotas.",
+            "os lucros auferidos pelo fundo e que sejam distribuídos aos cotistas devem ser tributados na fonte à alíquota de 15%."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "42",
+      "page": 9,
+      "question": "Para um investidor pessoa física domiciliado e residente no Brasil,",
+      "options": [
+            "O Fundo de Ações estão sujeitos ao Imposto sobre Operações de crédito, câmbio e seguros ou relativas a títulos e valores mobiliários (IOF) decrescente, de acordo com o prazo de aplicação.",
+            "as perdas apuradas no Fundo de Ações podem ser utilizadas para a redução do Imposto de Renda devido sobre futuros ganhos em Fundo de Renda Fixa do mesmo administrador.",
+            "a aplicação de recursos em um Fundo de Renda Fixa de Longo Prazo e subsequente resgate em 270 dias corridos geram imposto de Renda à alíquota de 17,50% sobre os rendimentos.",
+            "os ganhos no Fundo Multimercado de Curto Prazo são tributados à alíquota mínima de 20,00% sobre os rendimentos gerados entre a aplicação e o resgate."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "43",
+      "page": 9,
+      "question": "Um investidor que acredita em uma queda da taxa de juros maior que a do consenso de mercado, deve aplicar seus recursos em um fundo de investimento cuja carteira seja composta principalmente por",
+      "options": [
+            "títulos pós-fixados indexados ao Di e títulos prefixados.",
+            "títulos pós-fixados indexados à Taxa Selic.",
+            "titulos prefixados.",
+            "títulos prefixados e títulos pós-fixados indexados à Taxa Selic."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "44",
+      "page": 9,
+      "question": "Em um Fundo de Investimento em Direitos Creditórios (FIDC)\n\nI - as cotas subordinadas possuem maiores riscos, caso os créditos não sejam performados.\nII - são exigidos ratings (classificação de risco de agências de risco de mercado) apenas para as cotas sêniores.\nIII - as cotas seniores possuem prioridade para fins de pagamento de amortização e resgates.\n\nEstá correto o que se afirma em:",
+      "options": [
+            "II, apenas.",
+            "I e III, apenas.",
+            "II e III, apenas.",
+            "I, apenas."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "45",
+      "page": 10,
+      "question": "As classes tipificadas como Renda Fixa, Ações e Cambial são classificados a partir",
+      "options": [
+            "da composição da carteira em relação aos emissores dos títulos (públicos ou privados).",
+            "do principal fator de risco associado à sua carteira de títulos.",
+            "do prazo médio da sua carteira de títulos.",
+            "do seu parâmetro de referência (benchmark)."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "46",
+      "page": 10,
+      "question": "Em relação à legislação do imposto de renda da Receita Federal, considere as seguintes afirmativas:\n\nI. Os fundos de investimento são classificados como fundos de curto prazo ou de longo prazo em função do tempo de permanência dos recursos aplicados pelos cotistas.\nII. Tanto nos fundos de curto prazo quanto nos de longo prazo há o recolhimento semestral do imposto de renda pelo administrador, por meio do resgate de cotas suficientes para o pagamento do imposto apurado, denominado \"come-cotas\".\nIII. A incidência do imposto sobre os rendimentos auferidos em fundos de investimento de curto e de longo prazo ocorrerá no último dia útil dos meses de maio e de novembro de cada ano, ou no resgate de suas cotas, o que ocorrer primeiro.\n\nEstá correto o que se afirma em",
+      "options": [
+            "I e III, apenas.",
+            "I e II, apenas.",
+            "I, II e III.",
+            "II e III, apenas."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "47",
+      "page": 10,
+      "question": "Um Fundo de Investimento que oferece diversificação, facilidade no balanceamento da carteira, possui cotas negociadas na Bolsa de Valores e é constituído sob a forma de condomínio aberto é o",
+      "options": [
+            "Fundo de Investimento em Participações (FIP).",
+            "Exchange Traded Funds (ETFs).",
+            "Fundo de Investimento imobiliário (FII).",
+            "Fundo de investimento em Direito Creditório (FIDC)."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "48",
+      "page": 10,
+      "question": "Um indivíduo, 56 anos, trabalhador da indústria, contratado pelo modelo celetista (CLT), contribui, há mais de 15 anos, em um plano de previdência complementar individual do tipo VGBL com regime de tributação regressiva. Em relação à renda de aposentadoria que poderá ser proporcionada por este plano,",
+      "options": [
+            "esse indivíduo já pode converter seu plano de previdência em renda mensal por toda a vida ou por um prazo pré-estabelecido.",
+            "ao completar 65 anos de idade, esse indivíduo deverá, obrigatoriamente, converter seu plano individual, em renda mensal.",
+            "esse individuo deve aguardar 60 meses após o início do recebimento da aposentadoria pelo INSS, para ter direito à renda mensal no plano individual.",
+            "esse indivíduo deverá aguardar sua aposentadoria pelo INSS, para solicitar a conversão para renda mensal, da reserva acumulada no seu plano individual."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "49",
+      "page": 10,
+      "question": "Em um plano de previdência complementar aberto do tipo Vida Gerador de Benefício Livre (VGBL) o investidor, durante a fase de diferimento (acumulação), assumirá o risco de crédito",
+      "options": [
+            "do custodiante do fundo de investimento (FIE).",
+            "do administrador da carteira do fundo de investimento (FIE).",
+            "das ações que fazem parte da carteira do fundo de investimento (FIE).",
+            "da seguradora proprietária do plano."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "50",
+      "page": 11,
+      "question": "O aumento da Duration de Macaulay de uma carteira de investimentos tem como consequência direta",
+      "options": [
+            "a diminuição da variação do valor da carteira em relação ao seu benchmark.",
+            "o aumento da sua sensibilidade à mudanças nas taxas de juros.",
+            "a diminuição da relação entre o seu desvio-padrão e sua variância.",
+            "o aumento da relação entre o seu rating e seu risco de crédito."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "51",
+      "page": 11,
+      "question": "Um Fundo de Investimento em Ações deve aplicar em ações à vista; bônus ou recibos de subscrição; certificados de depósito de ações; cotas dos fundos de ações; cotas dos fundos de índice de ações; e Brazilian Depositary Receipts, classificados como níveis II e III, o percentual mínimo do Patrimônio Líquido (PL) de",
+      "options": [
+            "80%",
+            "95%",
+            "67%",
+            "51%"
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "52",
+      "page": 11,
+      "question": "Um investidor residente e domiciliado no Brasil pretende iniciar seu planejamento de aposentadoria. Para indicar a modalidade adequada dos planos de previdência complementar dos Plano Gerador de Benefício Livre (PGBL) ou Vida Gerador de Benefício Livre (VGBL), um especialista de investimento deve questionar-lhe o",
+      "options": [
+            "tipo de renda e o modelo atualda Declaração do Imposto de Renda da Pessoa Física (IRPF).",
+            "modelo atualda Declaração do Imposto de Renda (IR) e o vinculo com o Instituto Nacional do Seguro Social (INSS).",
+            "valor da renda e o modelo atualda Declaração do Imposto de Renda da Pessoa Física (IRPF).",
+            "tipo de renda e as contribuições ao Regime Geralde Previdência Social (RGPS)."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "53",
+      "page": 11,
+      "question": "O risco de crédito de um título é estimado pela",
+      "options": [
+            "expectativa de queda no lucro do seu emissor.",
+            "variação de seu preço em relação a um determinado índice.",
+            "probabilidade de seu emissor não cumprir as obrigações de pagamento.",
+            "variação de seu preço."
+          ],
+      "answer": "c"
+    },
+    {
+      "id": "54",
+      "page": 11,
+      "question": "Uma debenture foi emitida com cláusula de repactuação anual e rating A. Após 10 meses, a agência classificadora de risco alterou esse rating para AA.\n\nDado: taxa de juros da economia constante nesse período de tempo.\n\nNa repactuação dessa debenture, é de se esperar que",
+      "options": [
+            "a remuneração da debenture não se alterará.",
+            "a empresa negocie uma taxa de juros menor, em função do menor risco.",
+            "os investidores negociem uma taxa de juros maior, em função do maior risco.",
+            "o rating não influencie na remuneração da debenture."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "55",
+      "page": 11,
+      "question": "Um investidor toma a decisão de zerar as posicões de derivativos que possuía em sua carteira, influenciado por notícias de perdas significativas ocasionadas por esse instrumento. Entretanto, observa que o VaR das carteiras aumentou significativamente. Esse efeito, provavelmente, ocorreu devido",
+      "options": [
+            "à variação dos preços dos ativos que estavam sendo protegidos (hedgeados) pelos derivativos.",
+            "ao resultado fiscal gerado pela eliminação dos derivativos.",
+            "à redução do risco de mercado causado pela eliminação dos derivativos.",
+            "à diminuição da duration de Macaulay da carteira."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "56",
+      "page": 12,
+      "question": "Ao oferecer título da dívida brasileira no exterior cuja liquidação se realizará em dólares norte-americanos, o gerente de investimentos deverá comunicar a seu cliente que o título",
+      "options": [
+            "apresenta risco de crédito mitigado.",
+            "possui o risco soberano.",
+            "apresenta risco de crédito garantido pelo Tesouro Americano.",
+            "não possui o risco soberano."
+          ],
+      "answer": "b"
+    },
+    {
+      "id": "57",
+      "page": 12,
+      "question": "Conhecida apenas a variância dos retornos diários do preço de um título, pode-se determinar, imediatamente,",
+      "options": [
+            "o desvio padrão.",
+            "a correlação.",
+            "o coeficiente de determinação (R²).",
+            "a covariância."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "58",
+      "page": 12,
+      "question": "Ao oferecer título da dívida brasileira no exterior cuja liquidação se realizará em dólares norte-americanos, o gerente de investimentos deverá comunicar a seu cliente que o título:",
+      "options": [
+            "possui o risco soberano.",
+            "apresenta risco de crédito garantido pelo Tesouro Americano.",
+            "apresenta risco de crédito mitigado.",
+            "não possui o risco soberano."
+          ],
+      "answer": "a"
+    },
+    {
+      "id": "59",
+      "page": 12,
+      "question": "O índice de Sharpe mede",
+      "options": [
+            "o risco não sistemático de um fundo de investimento.",
+            "o retorno acumulado de um fundo de investimento em relação ao seu benchmark.",
+            "a duration, ou prazo médio, dos títulos que compõem um fundo de investimento.",
+            "a relação do risco assumido e o retorno obtido em fundos de investimento."
+          ],
+      "answer": "d"
+    },
+    {
+      "id": "60",
+      "page": 12,
+      "question": "O gráfico abaixo apresenta o risco e o retorno dos fundos A, B e C.\n\n[IMAGE OF A GRAPH. X-AXIS: Risco. Y-AXIS: Retorno. Point A is to the right and slightly below point B. Point C is below point A, at the same risk level.]\n\nÉ correto afirmar que o Índice de Sharpe do fundo",
+      "options": [
+            "A < B e B > C",
+            "A > B e A > C",
+            "A < B e A < C",
+            "A > B e A > C"
+          ],
+      "answer": "a"
+    }
+  ]
+}

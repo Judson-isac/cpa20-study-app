@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Simulados CPA 20</title>
+    <!-- Fontes e Ícones -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <!-- Adicione esta linha no &lt;head&gt; do seu index.html -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"&gt;
+    <!-- CSS e JS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- TELA DE LOGIN -->
+    <div id="login-section" class="login-container">
+        <div class="login-box">
+            <h1>Simulados CPA 20</h1>
+            <p class="login-subtitle">Faça login ou cadastre-se para continuar</p>
+            <div id="login-form">
+                <input type="text" id="username" placeholder="Nome de usuário">
+                <input type="password" id="password" placeholder="Senha">
+                <p id="login-message" class="login-message"></p>
+                <div class="login-actions">
+                    <button id="login-button" class="btn btn-primary">Entrar</button>
+                    <button id="register-button" class="btn btn-secondary">Cadastrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- TELA PRINCIPAL DA APLICAÇÃO -->
+    <div id="app-container" style="display: none;">
+        <header>
+            <h1>Simulados CPA 20</h1>
+            <div class="user-profile">
+                <button id="theme-toggle-btn" class="theme-toggle">
+                    <i class="bi bi-moon-stars-fill"></i>
+                    <i class="bi bi-sun-fill"></i>
+                </button>
+                <div class="avatar-container">
+                    <img id="user-avatar-img" src="default-avatar.png" alt="Avatar">
+                    <label for="avatar-upload-input" class="avatar-upload-label">
+                        <i class="bi bi-camera-fill"></i>
+                    </label>
+                    <input type="file" id="avatar-upload-input" accept="image/*" style="display:none;">
+                </div>
+                <span id="welcome-message"></span>
+                <button id="study-button" class="btn-study">Estudos</button>
+                <button id="logout-button" class="btn-logout">Sair</button>
+            </div>
+        </header>
+
+        <main>
+            <!-- NOVA SEÇÃO DE SELEÇÃO DE SIMULADO (Cards) -->
+            <section id="simulado-selection-section" style="display: none;">
+                <h2 class="section-title">Meus Simulados</h2>
+                <div id="simulados-list-container" class="simulados-list">
+                    <!-- Cards dos simulados serão gerados pelo JS aqui -->
+                </div>
+            </section>
+
+            <!-- SEÇÃO DAS QUESTÕES DO SIMULADO -->
+            <section id="questions-section" style="display: none;">
+                <div class="question-layout-grid">
+                    <div class="question-main-panel">
+                        <div class="card">
+                            <h2 id="question-header">Simulado</h2>
+                            <div id="current-question-container"></div>
+                            <div id="question-navigation-controls">
+                                <button id="prev-question-btn" class="btn btn-secondary">Anterior</button>
+                                <span id="question-counter"></span>
+                                <button id="next-question-btn" class="btn btn-primary">Próxima</button>
+                                <button id="finish-simulado-btn" class="btn btn-success" style="display: none;">Finalizar</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="question-sidebar">
+                        <div class="card">
+                            <h2>Questões</h2>
+                            <div id="question-navigator"></div>
+                            <button id="sidebar-finish-btn" class="btn btn-tertiary">Finalizar Agora</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SEÇÃO DE RESULTADOS E DASHBOARD -->
+            <section id="results-section" style="display: none;">
+                <div class="dashboard-top-row">
+                    <article class="card last-result-card">
+                        <h2>Último Simulado</h2>
+                        <div class="chart-container">
+                            <div id="percentage-circle" class="chart-donut">
+                                <span id="percentage-value">0%</span>
+                            </div>
+                        </div>
+                        <div class="result-details">
+                            <p>Acertos<strong id="correct-answers">0</strong></p>
+                            <p>Erros<strong id="incorrect-answers-last">0</strong></p>
+                            <p>Total<strong id="total-questions-last">0</strong></p>
+                        </div>
+                        <div class="card-actions">
+                            <button id="review-errors-button" class="btn btn-tertiary">Revisar Erros</button>
+                            <button id="back-to-selection-button" class="btn btn-secondary">Novo Simulado</button>
+                        </div>
+                    </article>
+                    <article class="card evolution-card">
+                        <h2>Sua Evolução</h2>
+                        <div class="chart-line-container">
+                            <canvas id="evolutionChart"></canvas>
+                        </div>
+                        <div id="key-metrics" class="key-metrics">
+                            <p>Desempenho Médio <strong id="average-percentage-value">0%</strong></p>
+                            <p>Melhor Resultado <strong id="best-score-value">0%</strong></p>
+                            <p>Simulados Feitos <strong id="total-attempts-value">0</strong></p>
+                        </div>
+                    </article>
+
+<article class="card ranking-card ranking-card-gamified">
+    <h2><i class="bi bi-trophy-fill"></i> Ranking Geral</h2>
+    <p class="ranking-description">Top 10 baseado no desempenho médio.</p>
+    <ol id="ranking-list" class="ranking-list-animated"></ol>
+</article>
+                </div>
+                <article class="card achievements-card">
+                    <h2>Minhas Conquistas</h2>
+                    <div id="achievements-container" class="achievements-list"></div>
+                </article>
+                <article id="previous-attempts" class="card history-card">
+                    <h2>Histórico de Tentativas</h2>
+                    <div class="table-container">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Data</th>
+                                    <th>Simulado</th>
+                                    <th>Resultado</th>
+                                    <th>Desempenho</th>
+                                    <th>Ações</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </article>
+            </section>
+
+<!-- SEÇÃO DE GABARITO/REVISÃO -->
+<section id="review-section" style="display: none;">
+    <div class="review-page-container"> <!-- Classe nova -->
+        <div class="card">
+            <div class="review-page-header"> <!-- Classe nova -->
+                <h2 id="review-title">Revisão do Simulado</h2>
+                <button id="start-redo-errors-btn" class="btn btn-primary">Refazer Questões Erradas</button>
+            </div>
+            <div id="review-container" class="review-questions-list"> <!-- Classe nova -->
+                <!-- Os cards de cada questão serão gerados aqui -->
+            </div>
+            <div class="review-page-footer"> <!-- Classe nova -->
+                <button id="back-to-dashboard-btn" class="btn btn-secondary">Voltar ao Dashboard</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- NOVA SEÇÃO DE ESTUDOS -->
+<section id="study-section" style="display: none;">
+    <h2 class="section-title">Materiais de Estudo</h2>
+    <p class="section-description">Explore os módulos de estudo abaixo para aprofundar seus conhecimentos. Clique em cada módulo para ver os arquivos disponíveis!</p> <!-- Descrição simples -->
+    <div id="modules-list-container" class="modules-list">
+        <!-- Módulos de estudo serão carregados aqui -->
+    </div>
+</section>
+
+<!-- SEÇÃO DO PLAYER DE VÍDEO (NOVO DESIGN "SALA DE AULA") -->
+<section id="video-player-section" style="display: none;">
+    <div class="video-player-layout">
+
+        <!-- PAINEL PRINCIPAL DO VÍDEO -->
+        <div class="video-main-panel">
+            <button id="back-to-study-modules-button" class="btn btn-secondary back-button">
+                <i class="bi bi-arrow-left-circle"></i> Voltar para Módulos
+            </button>
+            <div id="module-name-display" class="module-name-display"></div>
+            <h2 id="video-title"></h2>
+            <div class="video-wrapper">
+                <iframe id="study-video-player" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="video-navigation-controls">
+                <button id="prev-video-btn" class="btn btn-tertiary">
+                    <i class="bi bi-arrow-left"></i> Aula Anterior
+                </button>
+                <button id="next-video-btn" class="btn btn-primary">
+                    Próxima Aula <i class="bi bi-arrow-right"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- PAINEL LATERAL (PLAYLIST) -->
+        <div class="video-playlist-panel">
+            <h3>Aulas do Módulo</h3>
+            <ul id="video-playlist-container">
+                <!-- A lista de vídeos será gerada pelo JS aqui -->
+            </ul>
+        </div>
+
+    </div>
+</section>
+
+</main>
+        </div>
+
+    <!-- JANELA MODAL (se for usada no futuro) -->
+    <!-- ... -->
+
+    <!-- SCRIPTS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+<!-- JANELA MODAL DE REVISÃO -->
+    <div id="reviewModalOverlay" class="modal-overlay">
+        <div class="modal-content">
+            <h3>Resultado da Revisão</h3>
+            <div class="modal-body">
+                <p id="reviewModalSummary"></p>
+                <div class="chart-container">
+                    <div id="reviewModalCircle" class="chart-donut">
+                        <span id="reviewModalValue">0%</span>
+                    </div>
+                </div>
+                <p id="reviewModalMessage"></p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" onclick="document.getElementById('reviewModalOverlay').classList.remove('visible');">Fechar</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
