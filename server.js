@@ -4,8 +4,8 @@ const path = require('path');
 const sqlite3 = require('sqlite3').verbose();
 const multer = require('multer');
 
-const hostname = '127.0.0.1';
-const port = 3000;
+const hostname = '0.0.0.0'; // Alterado para escutar em todas as interfaces
+const port = process.env.PORT || 3000; // Usa a porta do ambiente ou 3000
 
 // --- Configuração do Multer (Upload de Arquivos) ---
 const storage = multer.diskStorage({
